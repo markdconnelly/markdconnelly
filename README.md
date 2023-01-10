@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+This profile will be used to store my various scipting projects. 
+- 🔭 I’m currently working on increasing visibility and security in the cloud
+- 🌱 I’m currently learning PowerShell specifically related to Azure and Microsoft 365
+- 👯 I’m looking to collaborate on Azure and Microsoft 365 projects
+- 🤔 I’m looking for help with best practices related to code development and automation
+- 💬 Ask me about how to increase your cyber security
+- 📫 How to reach me: mark@imperionllc.com
+- ⚡ Fun fact: I graduated high school at 16
+
 <!--
 **markdconnelly/markdconnelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
